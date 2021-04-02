@@ -27,4 +27,4 @@ keywords: post simulation , dspf
 
 7. 配置完成，可以进行仿真了。
 
-![Thread Safety ArrayList Add](/images/posts/java/thread-safety-arraylist-add.png)
+
