@@ -9,11 +9,11 @@ keywords: post simulation , dspf
  
 2. 按照下图设置界面中的inputs & outputs 选项。 注意 inputs 界面勾选 " export from layout viewer ", 其余根据自己的 library 和 cell 设置。
 
-![PEX DSPF inputs setting](sharkh.github.io/images/posts/cadence/pex-dspf-inputs-settig.png)
+![PEX DSPF inputs setting](sharhk.github.io/images/posts/cadence/pex-dspf-inputs-settig.png)
 
  在 outputs 界面，需要修改 extraction type 为 R + C + CC，并且netlist format 需要修改为dspf)
  
-![PEX  DSPF outputs setting](/images/posts/cadence/pex-dspf-outputs-settig.png)
+![PEX  DSPF outputs setting](sharhk.github.io/images/posts/cadence/pex-dspf-outputs-settig.png)
 
 3. 选择PEX options window:  在 lvs options Tab 加入 power & ground nets 的名字； 在connect Tab 里勾选“Don't connect nets by name"
 
@@ -23,6 +23,6 @@ keywords: post simulation , dspf
 
 6. 在 ADE L 界面上选择 Setup->simulation files-> parasitic files(DSPF)-> 选中你所保存的文件-> DSPF options 中select 所替代的元器件，点OK。
 
-![ADEL DSPF simulation files setting](/images/posts/cadence/dspf-simulation-files-settig.PNG)
+![ADEL DSPF simulation files setting](sharhk.github.io/images/posts/cadence/dspf-simulation-files-settig.PNG)
 
 7. 配置完成，可以进行仿真了。
