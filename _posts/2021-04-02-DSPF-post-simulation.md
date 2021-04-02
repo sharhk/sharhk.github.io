@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 版图抽取DSPF网表进行仿真
-categories: [post simulation, cadence]
+categories: [cadence]
 description: 
 keywords: post simulation , dspf
 ---
