@@ -9,7 +9,7 @@ keywords: post simulation , dspf
  
 2. 按照下图设置界面中的inputs & outputs 选项。 注意 inputs 界面勾选 " export from layout viewer ", 其余根据自己的 library 和 cell 设置。
 
-![PEX DSPF inputs setting](./images/posts/cadence/pex-dspf-inputs-settig.png)
+![PEX DSPF inputs setting](sharkh.github.io/images/posts/cadence/pex-dspf-inputs-settig.png)
 
  在 outputs 界面，需要修改 extraction type 为 R + C + CC，并且netlist format 需要修改为dspf)
  
