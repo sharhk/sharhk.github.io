@@ -39,6 +39,7 @@ startxfce4
  windows defender Firewall -> Allow an app for feature through Windows Defender Firewall, 找到vcXsrv 勾选
  
  ### 日常开启
+ 
  1 按照5 打开xlaunch 并配置
  2 wsl 中
  ``` 
